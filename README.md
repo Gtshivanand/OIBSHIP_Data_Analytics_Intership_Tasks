@@ -1,5 +1,7 @@
 # OIBSIP_Data_Analytics_Intership_Tasks
-Welcome to the OIBSIP (Online Internship Projects) repository! This public repository contains the successful completion of three tasks that were assigned to me during my esteemed internship with Oasis Infobyte as a Data Analytics Intern from 10th  January 2025 to 15th February 2025. Working with this esteemed company has been an incredible experience, and I am immensely grateful for the opportunity. By making this repository accessible, I aim to demonstrate my skills and progress in data science to potential employers and the wider community. Additionally, it allows for collaboration and feedback from others interested in data science, fostering a learning and growth environment.
+Welcome to the OIBSIP (Online Internship Projects) repository! This public repository contains the successful completion of All tasks that were assigned to me during my esteemed internship with Oasis Infobyte as a Data Analytics Intern from 10th  January 2025 to 15th February 2025. Working with this esteemed company has been an incredible experience, and I am immensely grateful for the opportunity. By making this repository accessible, I aim to demonstrate my skills and progress in data science to potential employers and the wider community. Additionally, it allows for collaboration and feedback from others interested in data science, fostering a learning and growth environment.
+
+<img src ="https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/blob/main/Data%20Analytics%20Offer%20letter.jpg"/>
 
 ## About Company
 
@@ -17,9 +19,40 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 - Instagram: [_oasisinfobyte](https://www.instagram.com/oasisinfobyte/)
 - Facebbok: [Oasis Infobyte](https://www.facebook.com/people/Oasis-Infobyte/100077689264614/?ref=page_internal)
 
+# Table of contents:
 
 
+1) Project Title: EDA on RetailSales Data
 
+- [Task1](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/tree/main/Level%201%20-Projects/EDA)
+
+2) Project Title: Customer Segmentation
+
+- [Task2](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/tree/main/Level%201%20-Projects/Customer%20Segmentation%20Analysis)
+
+3) Project Idea: Cleaning Data
+
+- [Task3](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/tree/main/Level%201%20-Projects/Cleaning%20Data)
+  
+4) Project Title: Sentiment Analysis
+
+- [Task4](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/tree/main/Level%201%20-Projects/Sentiment%20Analysis)
+
+5) Project Title: PredictingHouse Prices with Linear Regression
+
+- [Task1](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/tree/main/Level%202-%20Projects/Predicting%20House%20Prices%20with%20Linear%20Regression)
+
+6) Project Title: Wine Quality Prediction
+
+- [Task2](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/tree/main/Level%202-%20Projects/Wine%20Quality%20Prediction)
+
+7) Project Title: Fraud Detection
+
+- [Task3](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/tree/main/Level%202-%20Projects/Credit%20Card%20Fraud%20Detection)
+
+8) Project Title: Unveiling the Android App Market: 
+
+- [Task4](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/tree/main/Level%202-%20Projects/Unveiling%20The%20Andorid%20App%20Market)
 
 
 ## Conclusion
