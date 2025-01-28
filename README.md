@@ -54,6 +54,13 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 
 - [Task4](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/tree/main/Level%202-%20Projects/Unveiling%20The%20Andorid%20App%20Market)
 
+## Internship Experience: Data Analytics at Oasis Infobyte
+
+During my time as a Data Analytics intern at Oasis Infobyte, I had the opportunity to work on several impactful projects that helped me develop my skills in data analysis and machine learning. I’ve shared my journey and the insights I gained from the experience in a detailed blog post on Medium.
+
+Feel free to check it out here:
+
+[Read My Journey as a Data Analytics Intern at Oasis Infobyte](https://medium.com/@shivanandnashi97/my-journey-as-a-data-analytics-intern-at-oasis-infobyte-cf4d07cdb9e7)
 
 ## Conclusion
 
