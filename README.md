@@ -1,7 +1,14 @@
 # OIBSIP_Data_Analytics_Intership_Tasks
 Welcome to the OIBSIP (Online Internship Projects) repository! This public repository contains the successful completion of All tasks that were assigned to me during my esteemed internship with Oasis Infobyte as a Data Analytics Intern from 10th  January 2025 to 15th February 2025. Working with this esteemed company has been an incredible experience, and I am immensely grateful for the opportunity. By making this repository accessible, I aim to demonstrate my skills and progress in data science to potential employers and the wider community. Additionally, it allows for collaboration and feedback from others interested in data science, fostering a learning and growth environment.
 
+## Internship  Offer Letter:
 <img src ="https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/blob/main/Data%20Analytics%20Offer%20letter.jpg"/>
+
+## Certificate of Completion:
+
+📄 [Certificate of Completion](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks/blob/main/Oasis%20Infobyte%20Certificate%20of%20Completion.pdf)
+
+## 
 
 ## About Company
 
